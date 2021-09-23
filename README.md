@@ -1,1 +1,2 @@
 # Code
+print("Hello world")
